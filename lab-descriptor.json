@@ -9,7 +9,7 @@
   "phase": "3-ext",
   "collegeName": "IIITH",
   "baseUrl": "prp-iiith.vlabs.ac.in",
-  "introduction": "WThe Probability and Random Processes Lab simplifies complex probability concepts through interactive experiments and visualizations. It focuses on random variables, distributions, and random processes, emphasizing real-world applications in fields like communication, machine learning, finance, and bioinformatics.",
+  "introduction": "The Probability and Random Processes Lab simplifies complex probability concepts through interactive experiments and visualizations. It focuses on random variables, distributions, and random processes, emphasizing real-world applications in fields like communication, machine learning, finance, and bioinformatics.",
   "experiments":[
   {
     "name": "Random Variables",
@@ -81,11 +81,12 @@
       "UG 3rd Year (5th and 6th semester)"
     ],
     "PG": [
+      "Graduate Students"
     ]
   },
   "objective": "<b>Key Learning Outcomes:</b><ul><li>Exploring Probability Distributions: Work with random variables and distributions across diverse applications.</li><li>Understanding Limit Theorems: Visually interpret key theorems like the Law of Large Numbers and Central Limit Theorem.</li><li>Connecting Theory to Practice: Evaluate how random variables and processes impact real-world systems.</li></ul>",
   "courseAlignment": {
-    "description": "The syllabi of this lab aligns to the following universities in India.",
+    "description": "The syllabi of this lab aligns to the following courses-",
     "universities": [
       "Probability Theory and Stochastic Processes is a core course in Electronics and Communication Engineering (PCC-EC07) recommended in the AICTE model curriculum."
     ]
