@@ -15,7 +15,7 @@
     "name": "Random Variables",
     "short-name": "random-variables",
     "repo": "https://github.com/virtual-labs/exp-random-variables-iiith",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
@@ -29,49 +29,49 @@
     "name": "Functions of Random Variables",
     "short-name": "functions-of-random-variables",
     "repo": "https://github.com/virtual-labs/exp-functions-random-variables-iiith",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Gaussian Random Vectors",
     "short-name": "gaussian-random-vectors",
     "repo": "https://github.com/virtual-labs/exp-gaussian-random-vectors-iiith",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Convergence of Random Variables",
     "short-name": "convergence-of-random-variables",
     "repo": "https://github.com/virtual-labs/exp-convergence-random-variables-iiith",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Central Limit Theorem",
     "short-name": "central-limit-theorem",
     "repo": "https://github.com/virtual-labs/exp-central-limit-theorem-iiith",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Poisson Process",
     "short-name": "poisson-process",
     "repo": "https://github.com/virtual-labs/exp-poisson-process-iiith",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Autocorrelation and Power Spectral Density",
     "short-name": "autocorrelation-power-spectral-density",
     "repo": "https://github.com/virtual-labs/exp-autocorrelation-spectral-iiith",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Additive White Gaussian Noise",
     "short-name": "additive-white-gaussian-noise",
     "repo": "https://github.com/virtual-labs/exp-additive-white-gaussian-noise-iiith",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   }
 
